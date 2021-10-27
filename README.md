@@ -22,4 +22,4 @@ We initially analysed some research paper publications with respect to our probl
 
 File Directory:
 
-Notebook 1.ipynb is a Jupyter Notebook file for understanding as to how one can make use of various APIs to extract data from blockchain.info about blocks and metadata such as number of transactions, block height, transaction indices etc.
+Notebook 1.ipynb is a Jupyter Notebook file for understanding as to how one can make use of various APIs to extract data from blockchain.info about blocks and metadata such as number of transactions, block height, transaction indices etc. We make use of the NetworkX library from Python to visualise a small sub-section (due to computational constraints) of the graph. 
