@@ -19,3 +19,7 @@ Ethereum : Ethereum is a blockchain platform with its own cryptocurrency, called
 Transaction Graphs : A transaction graph is a directed acyclic graph G = (V ,E). The vertices V can be partitioned into states S and witnesses W , that is, V = S ∪ W . At a high level the edges E represent transitions between states.
 
 We initially analysed some research paper publications with respect to our problem. They are listed in the reference section of this document.
+
+File Directory:
+
+Notebook 1.ipynb is a Jupyter Notebook file for understanding as to how one can make use of various APIs to extract data from blockchain.info about blocks and metadata such as number of transactions, block height, transaction indices etc.
