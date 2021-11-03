@@ -4,7 +4,7 @@ This repository is for summer project, under the guidance of Dr. Sourav Sen Gupt
 
 Team members : Siddhant Pathak, Dhruv Chopra
 
-The project aims to understand the basics of the basics of blockchain, cryptocurrency (special emphasis on Bitcoin and Ethereum), and transaction graphs. The primary focus is to analyse Bitcoin blockchain data (transaction graphs) to find potential indicators of incidents. 
+The project aims to understand the basics of blockchain, cryptocurrency (special emphasis on Bitcoin and Ethereum), and transaction graphs. The primary focus is to analyse Bitcoin blockchain data (transaction graphs) to find potential indicators of incidents. 
 
 We are highly grateful to the professor for providing us with the opportunity to explore this field of cryptocurrency and utilise the power of machine learning.
 
