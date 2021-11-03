@@ -1,6 +1,3 @@
-
-![image](https://user-images.githubusercontent.com/82760212/140030008-7c670708-cbce-4ead-a04e-af2525d6cdcc.png)
-
 # Blockchain Analytics
 
 This repository is for summer project, under the guidance of Dr. Sourav Sen Gupta, lecturer at School of Computer Science and Engineering, here at Nanyang Technological University, Singapore.
@@ -10,6 +7,8 @@ Team members : Siddhant Pathak, Dhruv Chopra
 The project aims to understand the basics of blockchain, cryptocurrency (special emphasis on Bitcoin and Ethereum), and transaction graphs. The primary focus is to analyse Bitcoin blockchain data (transaction graphs) to find potential indicators of incidents. 
 
 We are highly grateful to the professor for providing us with the opportunity to explore this field of cryptocurrency and utilise the power of machine learning.
+
+![image](https://user-images.githubusercontent.com/82760212/140030008-7c670708-cbce-4ead-a04e-af2525d6cdcc.png=30X30)
 
 ## Definition: 
 
