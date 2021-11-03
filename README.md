@@ -51,5 +51,12 @@ Graph.csv is a Comma Seperated Value file consisting of the various Bitcoin addr
 
 Mining_Pool.ipynb is a Jupyter Notebook file for understading the basic concepts of mining pools. We expand our research into mining pools and various levels to understand payout patterns to various reward addresses. 
 
+## References:
+Romiti M. et al., 2018, "A Deep Dive into Bitcoin Mining Pools An Empirical Analysis of Mining Shares", https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_30.pdf
+
+Oggier et al.,2018, "BiVA : Bitcoin network visualization & analysis", https://dr.ntu.edu.sg/bitstream/10356/88895/1/Cameraready-BiVA.pdf
+
+https://holtzy.github.io/Crypto-Arbitrage/
+
 ## Room for improvement:
 Address clustering refers to construct the one-to-many mapping from entities to addresses in the Bitcoin system. Various heuristics (pre-determined as well as newly developed ones) can be utilised for the same purpose to classify various addresses and more easily understand transactions and flow of cryptocurrency. 
