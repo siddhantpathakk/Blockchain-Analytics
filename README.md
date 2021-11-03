@@ -18,7 +18,7 @@ Bitcoin : Bitcoin is a decentralized digital currency created in January 2009. I
 
 Mining Pools : A mining pool is a joint group of cryptocurrency miners who combine their computational resources over a network to strengthen the probability of finding a block or otherwise successfully mining for cryptocurrency.
 
-Transaction Graphs : A transaction graph is a directed acyclic graph G = (V ,E). The vertices V can be partitioned into states S and witnesses W , that is, V = S ∪ W . At a high level the edges E represent transitions between states.
+Transaction Graphs : A transaction graph is a directed acyclic graph G = (V ,E). The vertices V can be partitioned into states S and witnesses W , that is, V = S ∪ W .
 
 Centrality of a node : Node centrality is a measure of the importance of a node in a graph. There are numerous ways to define node centrality, the most well known being arguably the degree centrality, where a node is important if its degree is high. In our analysis, centrality will be of prime importance.
 
