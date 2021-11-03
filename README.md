@@ -8,7 +8,7 @@ The project aims to understand the basics of blockchain, cryptocurrency (special
 
 We are highly grateful to the professor for providing us with the opportunity to explore this field of cryptocurrency and utilise the power of machine learning.
 
-<img src="Communities.jpeg" alt="drawing" width="200"/>
+<img src="Communities.jpeg" alt="drawing" width="200" height ="100"/>
 
 ## Definition: 
 
